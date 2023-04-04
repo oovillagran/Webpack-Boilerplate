@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <h3><b>Project Review (Trials)</b></h3>
+  <h3><b>Set up project with webpack</b></h3>
 
 </div>
 
@@ -33,10 +33,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Project Review (Trials)<a name="about-project"></a>
+# 📖 Set up project with webpack<a name="about-project"></a>
 
 
-**Project Review (Trials)** intends to execute my first code review, as in week number one from Microverse software developer program I upgraded my knowledge and skills in *HTML* and *CSS*. This code review is going to be performance about the **Built a Survey Form project** from trials done in the admission proccess.
+**Set up project with webpack** is an exercise where I built a simple yet powerful webpack boilerplate, which can be later used as a starting point in my projects. I used the webpack official guides.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,6 +54,13 @@
   <summary>CSS</summary>
   <ul>
     <li>CSS</li>
+  </ul>
+</details>
+
+<details>
+  <summary>JavaScript</summary>
+  <ul>
+    <li>JavaScript</li>
   </ul>
 </details>
 
@@ -100,7 +107,7 @@ Clone this repository to your desired folder:
  
  ```bash
  cd my-folder
- git clone git@github.com:oovillagran/Portfolio-project.git
+ git clone git@github.com:oovillagran/Webpack-Boilerplate.git
 ```
 
 ### Install
@@ -152,8 +159,7 @@ To run tests, execute the following command:
 
 - [ ] **Use of linter in HTML&CSS projects**
 - [ ] **Use README template file**
-- [ ] **Ask for a code review**
-- [ ] **Follow the list from the article ["How_to_give_a_code_review?"](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/give_code_review_basics.md).**
+- [ ] **[Use of webpack guidelines](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/exercises/exercise_set_up_project_with_webpack.md)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +186,7 @@ If you like this project feel free to make any comment, all contributions are we
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse comunity, especially reviewers guys, they do an excellent job. I thank my learning, morning session and standup partners for supporting me.
+I would like to thank Microverse comunity. I thank my learning, morning session and standup partners for supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
